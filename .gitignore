@@ -3,3 +3,8 @@ build/
 .vscode/
 *.log
 actions-runner/
+ssh_assignment5_ed25519
+ssh_assignment5_ed25519.pub
+ssh_assignment5_key
+ssh_assignment5_key.pub
+
